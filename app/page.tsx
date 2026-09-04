@@ -12,7 +12,7 @@ export default function Home() {
     '@context': 'https://schema.org',
     '@type': 'Person',
     name: 'Zander Kwan',
-    url: 'https://zanderkwan.stormy-bear-1332.chatgpt.site',
+    url: 'https://zanderkwan.irenelu-canada.chatgpt.site',
     jobTitle: 'Digital Builder',
     knowsAbout: ['Digital strategy', 'Experience design', 'Frontend development'],
   };

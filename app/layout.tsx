@@ -19,7 +19,7 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://zanderkwan.stormy-bear-1332.chatgpt.site'),
+  metadataBase: new URL('https://zanderkwan.irenelu-canada.chatgpt.site'),
   title: {
     default: 'Zander Kwan — Digital Builder',
     template: '%s — Zander Kwan',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     'Zander Kwan turns ambitious ideas into clear, useful digital experiences across strategy, design, and technology.',
   openGraph: {
     type: 'website',
-    url: 'https://zanderkwan.stormy-bear-1332.chatgpt.site',
+    url: 'https://zanderkwan.irenelu-canada.chatgpt.site',
     siteName: 'Zander Kwan',
     title: 'Zander Kwan — Ideas into impact.',
     description:

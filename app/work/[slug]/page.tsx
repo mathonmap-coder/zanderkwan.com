@@ -57,7 +57,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
       '@type': 'Person',
       name: 'Zander Kwan',
     },
-    url: `https://zanderkwan.stormy-bear-1332.chatgpt.site/work/${project.slug}`,
+    url: `https://zanderkwan.irenelu-canada.chatgpt.site/work/${project.slug}`,
   };
 
   return (
